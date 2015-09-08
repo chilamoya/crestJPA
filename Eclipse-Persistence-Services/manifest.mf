@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.innate.db.manager
+OpenIDE-Module-Localizing-Bundle: com/innate/db/manager/Bundle.properties
+OpenIDE-Module-Specification-Version: 3.6
+
